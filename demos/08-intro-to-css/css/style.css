@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p1 {
+    color:red;
+}
+
+#p2{
+    background-color: hsl(0, 98%, 48%);
+    color:beige;
+}
+
+
+#s1{
+    background-color: aquamarine;
+    color: rgb(255, 0, 242);
+
+
+}
