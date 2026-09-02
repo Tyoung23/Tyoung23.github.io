@@ -7,3 +7,36 @@ body {
     font-family: sans-serif;
 }
 
+#t1p1 {
+    color: green;
+}
+
+#s1 { 
+    color: deeppink;
+}
+
+#s2 {
+    color: deeppink;
+}
+
+#s3 {
+    color: red;
+}
+
+#s4 {
+    color: orange;
+}
+
+#s5 {
+    color: blue;
+}
+
+#p1 {
+    background-color: #7ecaeb;
+}
+
+#s6 {
+    background-color: yellow;
+}#s7 {
+font-weight: bold;
+}

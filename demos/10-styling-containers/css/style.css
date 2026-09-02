@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p1 {
+    color: blueviolet;
+}
+
+.flash {
+    background-color: gold;
+    margin: 23px;
+    padding: 23px;
+    box-shadow: inset 5px 8px 5px #f89a04;
+
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 91, 171);
+}
