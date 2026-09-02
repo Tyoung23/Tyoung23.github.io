@@ -24,7 +24,7 @@ body {
 }
 
 #flag-red {
-    background-color:#C32F27 ;
+    background-color: #C32F27 ;
 }
 
 #burgundy {
@@ -46,6 +46,18 @@ body {
     background-color: #A3D5FF;
 }
 
-#sky-blue-2 {
+#skyblue-2 {
     background-color: #83C9F4;
+}
+
+#Dark-Raspberry {
+    background-color: #861657; 
+}
+
+#Dusty-Mauve {
+    background-color: #A64253;
+}
+
+#Sweet-Peony {
+    background-color: #D56AA0;
 }
