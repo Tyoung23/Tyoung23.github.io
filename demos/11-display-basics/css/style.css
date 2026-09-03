@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: rgb(200, 157, 240);
+}
+
+span {
+    background-color: aqua;
+    display: block;
+}
+
+div {
+    background-color: rgb(175, 38, 38);
+    display: inline;
+}
+
+.heart {
+    background-color: rgb(199, 238, 26);
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin: 12px;
+    padding: 12px;
+
+}
