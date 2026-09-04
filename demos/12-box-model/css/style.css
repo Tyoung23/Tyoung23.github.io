@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    margin:26px 38px;
+    border: 8px solid red;
+    border-radius: 28px 0px;
+    padding: 32px;
+    background-color: beige;
+}
+

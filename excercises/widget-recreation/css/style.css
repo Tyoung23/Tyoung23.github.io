@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#weather {
+    background-color: rgb(47, 126, 245);
+    display: inline-block;
+    border-radius: 25px;
+    color: white;
+    margin: 100px;
+    padding: 15px;
+}
+
+img {
+    width: 50px;
+    vertical-align: 25px;
+}
+
