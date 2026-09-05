@@ -18,6 +18,18 @@ body {
 
 img {
     width: 50px;
-    vertical-align: 25px;
+    vertical-align: middle;
+}
+p {
+    display: inline-block;
+    vertical-align: middle;
 }
 
+#time {
+    margin-left: 28px;
+    margin-right: 25px;
+}
+
+#date {
+    font-size: 12px;
+}
