@@ -37,6 +37,53 @@ body {
 
 #s6 {
     background-color: yellow;
-}#s7 {
-font-weight: bold;
+}
+#s7 {
+    font-weight: bold;
+}
+
+#s8 {
+    font-weight: bold;
+}
+
+#s9 {
+    font-style: italic;
+}
+
+#s10 {
+    font-weight: bolder;
+}
+
+#s11 {
+    font-style: italic;
+}
+
+#s12 {
+    text-decoration: underline;
+}
+
+#s13 {
+    text-decoration: underline;
+}
+
+#p2 {
+    font-size: 36px;
+}
+#p3 {
+    font-size: 12px; 
+    font-weight: bold;
+    
+}
+
+#p4 {
+    font-size: 48px;
+}
+
+#p5 {
+    font-size: 24px;
+    font-style: italic;
+}
+
+#p6 {
+    text-align: center;
 }
