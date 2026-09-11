@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: "Bitcount Prop Double Ink", system-ui;
+}
+.single-column {
+    /* background-color: rgb(248, 53, 177); */
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+}
+
+.light-container {
+    background-color: deeppink;
+    padding: 48px 0px;
+}
+
+.dark-container {
+    background-color: rgb(120, 1, 65);
+    padding: 48px 0px;
+    color: white;
+}
+
+.button{
+    text-decoration: none;
+    color: rgb(15, 8, 21);
+    display: inline-block;
+
+}
+
+.primary{
+    background-color: chartreuse;
+    padding: 12px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.secondary{
+    background-color: chartreuse;
+    padding: 12px;
+    border-radius: 20px;
+    font-weight: bold;
+}
