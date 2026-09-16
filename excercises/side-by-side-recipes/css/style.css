@@ -18,17 +18,17 @@ img {
 }
 
 .media-and-text {
-    display:flex;
+    display: flex;
     align-items: center;
     gap: 36px;
 }
 
 .meadia-and-text .left-side {
-flex: 1;
+    flex: 1;
 }
 
-.meadia-and-text .right-side{
-flex: 1;
+.meadia-and-text .right-side {
+    flex: 1;
 }
 
 .card {
@@ -36,11 +36,10 @@ flex: 1;
     padding: 36px;
     text-align: center;
     margin: 36px 0px;
-    flex: 1
+    flex: 1;
 }
 
 .cards-container {
     display: flex;
-    gap: 24px
-    ;
+    gap: 24px;
 }
