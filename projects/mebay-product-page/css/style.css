@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#layout {max-width: 1200px;
+margin:48px auto;
+display:flex;
+}
+
+#featured-image-column {
+    flex:1;
+
+    /* don't leeave this here */
+    background-color:blue;
+    min-height:100vh;
+}
+
+#thumbnail-column {
+    flex:1;
+    /* don't leave this here */
+    background-color:rgb(89, 247, 89);
+    min-height:100vh;
+
+}
+
+#product-info-column {
+    flex:1;
+    /* don't leave this here */
+background-color:crimson;
+min-height:100vh;
+}
+img{
+    width:100%
+}
+
+#thumbnail-column img {
+    width:100%
+}
+
+#button {
+    text-decoration:none;
+    color:blue;
+    display:inline-block;
+    border:1px solid
+    margin:10px
+    padding:10px
+}
