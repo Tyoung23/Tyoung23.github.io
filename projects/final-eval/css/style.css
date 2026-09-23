@@ -7,3 +7,37 @@ body {
     font-family: sans-serif;
 }
 
+#football-theme {
+    font-size: 55px;
+
+
+}
+.super {
+    font-size: 95px;
+}
+
+#party {
+    font-size: 45px;
+}
+
+#buttons {
+    text-decoration: none;
+    color: blue;
+    display: inline-block;
+    border: radious 55px;
+    padding: 25px;
+}
+ 
+#cowboys1 {
+    bockground-color: blue;
+    text-align: center;
+}
+
+#cowboys2 {
+    text-align: center;
+
+}
+
+#party {
+    text-align:center
+}
