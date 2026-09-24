@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+
+#hero {
+    /* background-image: url(../images/images/placid-waters.jpg); */
+    background-image: url(../images/images/stars-on-velvet.jpg);
+    height: 100vh;
+background-size: conver;
+background-position: center center;
+
+color: rgb(139, 67, 0);
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+#hero h1 {
+    font-size: 150px;
+    margin-bottom: 48px;
+}
+
+#hero h3 {
+    font-size: 85px;
+    margin-top: 36px;
+}
+

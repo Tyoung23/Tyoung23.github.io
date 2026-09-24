@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+
+#hero-content {
+    background-image: url(../images/image\ 1.avif);
+    height: 100vh;
+}
+
+.horizontal-masonry {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.horizontal-masonry-gallery img {
+    height: 250px;
+}
