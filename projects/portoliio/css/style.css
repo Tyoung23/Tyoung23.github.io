@@ -30,3 +30,26 @@ body {
     background-position: center center;
 }
 
+#hero a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: yellow;
+    padding: 14px;
+    border-radius: 34px;
+    font-weight: bold;
+}
+
+h1 {
+    color:white;
+}
+
+#gallery-layout {
+    display:grid;
+    margin: 64px;
+    grid-template-columns: 1fr 1fr;
+    gap:24px;
+}
+#gallery-layout img {
+    width:100%
+}
+
