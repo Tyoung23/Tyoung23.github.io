@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#nav {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+    flex-wrap: wrap;
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding:20px;
+    justify-content: space-between;
+}
+
+#hero {
+    background-image: url(../images/urban-hi-res-2nse.jpg);
+    height: 100vh;
+    background-size: cover
+    background-position: center center;
+}
+
