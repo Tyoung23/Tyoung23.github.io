@@ -19,15 +19,16 @@ body {
     color: white;
     text-decoration: none;
     font-size: 24px;
-    padding:20px;
+    padding: 20px;
     justify-content: space-between;
 }
 
 #hero {
     background-image: url(../images/urban-hi-res-2nse.jpg);
     height: 100vh;
-    background-size: cover
+    background-size: cover;
     background-position: center center;
+    padding: 88px;
 }
 
 #hero a {
@@ -40,16 +41,52 @@ body {
 }
 
 h1 {
-    color:white;
+    color: white;
 }
 
 #gallery-layout {
-    display:grid;
-    margin: 64px;
+    display: grid;
+    margin: 24px;
     grid-template-columns: 1fr 1fr;
-    gap:24px;
+    gap: 14px;
 }
 #gallery-layout img {
-    width:100%
+    width: 100%;
 }
 
+.card-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    color: white;
+    background-color: crimson;
+    flex: 1;
+    border: 4px solid;
+    padding: 68px 46px;
+    text-align: center;
+    margin: 46px;
+
+}
+
+.card a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: yellow;
+    padding: 8px;
+    border-radius: 36px;
+    font-weight: bold;
+}
+
+@media screen and (max-width:640px) {
+    body {
+        /* background-color: blue; */
+    }
+}
+
+@media screen and (max-width:450px) {
+    body {
+        /* background-color: purple; */
+    }
+}
